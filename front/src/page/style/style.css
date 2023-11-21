@@ -17,7 +17,7 @@ textarea {
   background-size: cover;
 }
 
-.container {
+.container {  
   position: relative;
   width: 100%;
   min-height: 100vh;

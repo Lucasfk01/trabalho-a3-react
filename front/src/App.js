@@ -1,13 +1,10 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 import Home from './page/components/home';
 
 const App = () => {
-
-
   return (
     <Home />
-
   );
 };
 
