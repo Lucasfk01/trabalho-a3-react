@@ -19,3 +19,9 @@ Na segunda entrega do projeto, implementamos diversas melhorias para aprimorar a
 3. **Campo de Resumo de Texto:** Implementamos um campo dedicado para resumir o texto inserido. Isso ajuda os usuários a destacar as informações mais importantes ou a sintetizar o conteúdo, tornando-o mais útil e prático.
 
 4. **Estilização da Página Principal:** Realizamos uma estilização abrangente dos elementos na página principal. Isso inclui a seleção de cores, fontes, layout e outros aspectos visuais para criar uma experiência esteticamente agradável e coesa.
+
+# Melhorias na Entrega 3
+
+Na terceira entrega do projeto, implementamos diversas melhorias para aprimorar a experiência do usuário e a aparência geral da aplicação. Abaixo estão as principais melhorias que foram feitas:
+
+1. **Início do setup do backend:** Iniciamos nosso setup de backend, que é um serviço com apenas uma API com metódo POST. Utilizamos Node JS, e como biblioteca o Axios para realizar as requisições HTTP entre o Frontend e o Backend.
