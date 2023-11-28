@@ -1,6 +1,6 @@
 const express = require('express');
 const cors = require('cors');
-const {OpenAI } = require("openai");
+const { OpenAI } = require("openai");
 require('dotenv').config();
 
 const app = express();
@@ -20,7 +20,7 @@ app.post('/api/data', async (req, res) => {
             messages: [
                 {
                     role: "user",
-                    content: `Faça um resumo do livro/artigo: ${text}`
+                    content: `Faça um resumo de até 6 linhas (importante) do livro/artigo : ${text}`
                 }
             ],
             temperature: 0,
